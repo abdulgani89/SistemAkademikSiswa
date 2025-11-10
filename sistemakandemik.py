@@ -1,3 +1,3 @@
-print ("helo semua")
+print("helo semua")
 cek cek
-hallo bang
+ini perubahan baru dari VS Code
